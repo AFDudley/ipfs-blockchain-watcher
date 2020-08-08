@@ -10,7 +10,7 @@ require (
 	github.com/ipfs/go-blockservice v0.1.3
 	github.com/ipfs/go-cid v0.0.5
 	github.com/ipfs/go-filestore v1.0.0 // indirect
-	github.com/ipfs/go-graphsync v0.0.5 //indirect
+	github.com/ipfs/go-graphsync v0.0.5 // indirect
 	github.com/ipfs/go-ipfs v0.5.1
 	github.com/ipfs/go-ipfs-blockstore v1.0.0
 	github.com/ipfs/go-ipfs-ds-help v1.0.0
